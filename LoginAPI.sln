@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAPI", "LoginAPI\LoginAPI.csproj", "{09936CDB-AA8D-469C-846A-CC286B1236CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeService", "ConsumeService\ConsumeService.csproj", "{98427384-A93C-4E18-A224-C598B12002BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAPI.Common", "LoginAPI.Common\LoginAPI.Common.csproj", "{0911B8B6-4F2F-4D93-B398-D2AE30342684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09936CDB-AA8D-469C-846A-CC286B1236CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09936CDB-AA8D-469C-846A-CC286B1236CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09936CDB-AA8D-469C-846A-CC286B1236CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09936CDB-AA8D-469C-846A-CC286B1236CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98427384-A93C-4E18-A224-C598B12002BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98427384-A93C-4E18-A224-C598B12002BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98427384-A93C-4E18-A224-C598B12002BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98427384-A93C-4E18-A224-C598B12002BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0911B8B6-4F2F-4D93-B398-D2AE30342684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0911B8B6-4F2F-4D93-B398-D2AE30342684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0911B8B6-4F2F-4D93-B398-D2AE30342684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0911B8B6-4F2F-4D93-B398-D2AE30342684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

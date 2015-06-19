@@ -1,0 +1,8 @@
+1- LoginAPI
+> returns a name string for a particular username and password
+
+2- ConsumeService
+> consume the services from LoginAPI
+
+3- LoginAPI.Users.xml
+> contain the username/password/name used in the LoginAPI

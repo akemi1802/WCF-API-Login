@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <User>
+    <Name>Elaine</Name>
+    <Password>123</Password>
+    <Username>elaineakemi</Username>
+  </User>
+  <User>
+    <Name>Fleetmatics - Intelligence at Work</Name>
+    <Password>123123</Password>
+    <Username>fleetmatics</Username>
+  </User>
+</root>
